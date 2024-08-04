@@ -1,3 +1,7 @@
+#Report
+
+The report is in file crawl-report.csv
+
 # run tests and create a coverprofile
 
 ```sh
