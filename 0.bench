@@ -1,0 +1,7 @@
+goos: windows
+goarch: amd64
+pkg: github.com/avshetty1980/webcrawler
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+BenchmarkCrawl-8   	      85	 126273251 ns/op	   65175 B/op	     168 allocs/op
+PASS
+ok  	github.com/avshetty1980/webcrawler	17.383s
